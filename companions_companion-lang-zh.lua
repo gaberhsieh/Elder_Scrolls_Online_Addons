@@ -3,7 +3,7 @@ local chineseStrings = {
     --[[
         UI Gamepad
     ]]
-    CC_UI_RAPPORT_TITLE = "Rapport",
+    CC_UI_RAPPORT_TITLE = "相性Rapport",
 
     --[[
         General
@@ -53,9 +53,9 @@ local chineseStrings = {
     CC_NO_COOLDOWN                       = "無冷卻時間",
     CC_OFF_COOLDOWN                      = "非冷卻時間",
     CC_DURING_COOLDOWN                   = "冷卻時間內",
-    CC_SHARED_BASTIAN_MIRRI              = "at 1000 and 2000 rapport",
-    CC_SHARED_PERSONAL_QUEST_RAPPORT     = "at 1000, 2000, and 3000 rapport",
-    CC_ISOBEL_LEADERS                    = "1 小時 (shared with the other leaders rapports)",
+    CC_SHARED_BASTIAN_MIRRI              = "at 1000 and 2000 相性",
+    CC_SHARED_PERSONAL_QUEST_RAPPORT     = "at 1000, 2000, and 3000 相性",
+    CC_ISOBEL_LEADERS                    = "1 小時 (與其他leaders共享相性)",
 
     --[[
         Shared
@@ -102,29 +102,29 @@ local chineseStrings = {
         Mirri
     ]]
     -- Good
-    CC_GOOD_MIRRI_TEXT_1  = "Complete a daily Ashlander Quest for Numani-Rasi in Vvardenfell",
-    CC_GOOD_MIRRI_TEXT_2  = "Complete a daily Fighters Guild quest offered by Cardea Gallus",
-    CC_GOOD_MIRRI_TEXT_3  = "View a completed Library of Vivec in Vivec City",
-    CC_GOOD_MIRRI_TEXT_4  = "View a completed Kari's Hit List in the Abah's Landing Thieves Den",
-    CC_GOOD_MIRRI_TEXT_5  = "Enter a daedric-themed delve or public dungeon (e.g. Ashalmawia, Broken Tusk, Mehrunes' Spite, Sanguine's Demesne, The Cave of Trophies and The Grotto of Depravity)",
-    CC_GOOD_MIRRI_TEXT_6  = "Visit the Clockwork City (except Brass Fortress unless through front gate)",
-    CC_GOOD_MIRRI_TEXT_7  = "Excavate an Antiquity",
-    CC_GOOD_MIRRI_TEXT_8  = "Talk to Sotha Sil",
-    CC_GOOD_MIRRI_TEXT_9  = "View a completed Khajiit of the Moons in Senchal",
-    CC_GOOD_MIRRI_TEXT_10 = "View a completed Rithana-di-Renada in Riverhold",
-    CC_GOOD_MIRRI_TEXT_11 = "View a completed House of Orsimer Glories in Orsinium",
-    CC_GOOD_MIRRI_TEXT_12 = "View a completed Vault of Moawita on Artaeum",
-    CC_GOOD_MIRRI_TEXT_14 = "Kill a goblin",
-    CC_GOOD_MIRRI_TEXT_15 = "Kill a snake (including critters)",
-    CC_GOOD_MIRRI_TEXT_16 = "Craft an alcoholic beverage",
-    CC_GOOD_MIRRI_TEXT_17 = "Read a book from a bookshelf",             -- 5:34pm -6:36 -7:36 -9:44 >2hour
-    CC_GOOD_MIRRI_TEXT_18 = "Summon the Daemon Chicken non-combat pet", -- TODO
-    CC_GOOD_MIRRI_TEXT_19 = "Take all loot from a treasure chest",
+    CC_GOOD_MIRRI_TEXT_1  = "為 Vvardenfell 的 Numani-Rasi 完成一個每日 Ashlander 任務",
+    CC_GOOD_MIRRI_TEXT_2  = "完成一個由 Cardea Gallus 提供的戰士公會每日任務",
+    CC_GOOD_MIRRI_TEXT_3  = "參訪一個在於 Vivec City 中已完成的 Vivec 圖書館",
+    CC_GOOD_MIRRI_TEXT_4  = "在 Abah's Landing 的 Thieves Den 中，參觀一個完成的 Kari's Hit List",
+    CC_GOOD_MIRRI_TEXT_5  = "進入一個 daedric 主題風格的洞穴或公共地下城 (例如： Ashalmawia, Broken Tusk, Mehrunes' Spite, Sanguine's Demesne, The Cave of Trophies and The Grotto of Depravity)",
+    CC_GOOD_MIRRI_TEXT_6  = "參訪發條城 (黃銅堡壘除外，除非途經大門)",
+    CC_GOOD_MIRRI_TEXT_7  = "挖掘一個古物",
+    CC_GOOD_MIRRI_TEXT_8  = "與 Sotha Sil 對話",
+    CC_GOOD_MIRRI_TEXT_9  = "參觀一個完成的 Khajiit of the Moons in Senchal",
+    CC_GOOD_MIRRI_TEXT_10 = "參觀一個完成的 Rithana-di-Renada in Riverhold",
+    CC_GOOD_MIRRI_TEXT_11 = "參觀一個完成的 House of Orsimer Glories in Orsinium",
+    CC_GOOD_MIRRI_TEXT_12 = "參觀一個完成的 Vault of Moawita on Artaeum",
+    CC_GOOD_MIRRI_TEXT_14 = "殺死一個哥布林",
+    CC_GOOD_MIRRI_TEXT_15 = "殺死一條蛇 (包含小動物)",
+    CC_GOOD_MIRRI_TEXT_16 = "製造一份酒精飲料",
+    CC_GOOD_MIRRI_TEXT_17 = "閱讀書架上的一本書",             -- 5:34pm -6:36 -7:36 -9:44 >2hour
+    CC_GOOD_MIRRI_TEXT_18 = "召喚惡魔雞(非戰鬥寵物)", -- TODO
+    CC_GOOD_MIRRI_TEXT_19 = "拿走寶箱中所有的可搜刮物",
     CC_GOOD_MIRRI_TEXT_20 = "Kill a riekling",
 
     -- Bad
-    CC_BAD_MIRRI_TEXT_1 = "Complete a Dark Brotherhood Black Sacrament quest",
-    CC_BAD_MIRRI_TEXT_2 = "Collect a torchbug, butterfly or honey bee",
+    CC_BAD_MIRRI_TEXT_1 = "完成黑暗兄弟會的一個黑暗聖禮任務",
+    CC_BAD_MIRRI_TEXT_2 = "收集螢火蟲、蝴蝶或蜜蜂",
 
 
     --[[

@@ -191,27 +191,27 @@ local chineseStrings = {
     ]]
 
     -- Good
-    CC_GOOD_SHARP_TEXT_2 = "Repair gear (including recharging weapon)",
-    CC_GOOD_SHARP_TEXT_3 = "Harvest a plant-based material",
-    CC_GOOD_SHARP_TEXT_4 = "Start fishing",
-    CC_GOOD_SHARP_TEXT_5 = "Catch a non-common fish",
-    CC_GOOD_SHARP_TEXT_6 = "Recharge your Weapon with a Soul Gem",
-    CC_GOOD_SHARP_TEXT_9 = "Complete a daily quest for Ordinator Neyln in Necrom",
-    CC_GOOD_SHARP_TEXT_10 = "Kill a ghost",
-    CC_GOOD_SHARP_TEXT_11 = "Visit any of Hist Tree sapplings located at Ebonheart, Hatching Pools or Haj Uxith",
-    CC_GOOD_SHARP_TEXT_12 = "Talking to M'aiq the Liar",
-    CC_GOOD_SHARP_TEXT_13 = "Eat a meal",
-    CC_GOOD_SHARP_TEXT_14 = "Craft a poison",
-    CC_GOOD_SHARP_TEXT_15 = "Kill a Fabricant or Dwarven construct",
-    CC_GOOD_SHARP_TEXT_16 = "Dig up a treasure map chest",
-    CC_GOOD_SHARP_TEXT_17 = "Obtain a monster trophy",
+    CC_GOOD_SHARP_TEXT_2 = "修理裝備（含武器充能）",
+    CC_GOOD_SHARP_TEXT_3 = "收穫植物性材料",
+    CC_GOOD_SHARP_TEXT_4 = "開始釣魚",
+    CC_GOOD_SHARP_TEXT_5 = "釣到一條不常見的魚",
+    CC_GOOD_SHARP_TEXT_6 = "使用靈魂寶石為武器充能",
+    CC_GOOD_SHARP_TEXT_9 = "為死靈之地 (Necrom) 的 Ordinator Neyln 完成一個每日任務",
+    CC_GOOD_SHARP_TEXT_10 = "殺死一個鬼魂",
+    CC_GOOD_SHARP_TEXT_11 = "在黑檀木之心、孵化池或 Haj Uxith，參觀任何 Hist Tree 樹苗",
+    CC_GOOD_SHARP_TEXT_12 = "跟大話王 M'aiq the Liar 對話",
+    CC_GOOD_SHARP_TEXT_13 = "吃一餐",
+    CC_GOOD_SHARP_TEXT_14 = "製造一份毒藥",
+    CC_GOOD_SHARP_TEXT_15 = "殺死一個機械構造物或矮人構裝體",
+    CC_GOOD_SHARP_TEXT_16 = "挖出藏寶圖寶箱",
+    CC_GOOD_SHARP_TEXT_17 = "獲得怪物獎杯",
 
     -- Bad
-    CC_BAD_SHARP_TEXT_1 = "Visit an outfit station",
-    CC_BAD_SHARP_TEXT_2 = "Willingly pay a bounty when accosted by a guard",
-    CC_BAD_SHARP_TEXT_3 = "Pickpocket a begger, laborer or fisher",
-    CC_BAD_SHARP_TEXT_4 = "Destorying an item from inventory or multiple items of the same type worth over 20 gold",
-    CC_BAD_SHARP_TEXT_5 = "Let your gear break",
+    CC_BAD_SHARP_TEXT_1 = "參觀裝扮台",
+    CC_BAD_SHARP_TEXT_2 = "被守衛盤查時，願意支付贖金",
+    CC_BAD_SHARP_TEXT_3 = "扒竊乞丐、勞工或漁民",
+    CC_BAD_SHARP_TEXT_4 = "從物品欄中銷毀一件物品，或銷毀多件同類型且總價值超過 20 金幣的物品",
+    CC_BAD_SHARP_TEXT_5 = "裝備被破壞",
 
 
     --[[
